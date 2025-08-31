@@ -7,7 +7,7 @@ This Power BI report analyzes water access, service efficiency, and demographic 
 - Queue wait times by day, hour, and location
 - Gender and age distribution in queues
 - Regional disparities (urban vs. rural) in service delivery
-- 
+
 **Key Insights**
 - Urban vs. Rural Divide: Urban areas serve significantly more people (63.85%) compared to rural regions (36.15%).
 - Water Source Types: “Tap in home” is the most common water source, while “shared tap” and “river” sources indicate areas needing infrastructure improvement.
